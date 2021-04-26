@@ -54,6 +54,8 @@
 [18]: https://muqaribsthoughts.wordpress.com/
 [19]: https://muqaribsthoughts.wordpress.com/
 [20]: https://muqaribsthoughts.wordpress.com/
+[21]: https://muqaribsthoughts.wordpress.com/
+
 
 This is me, Agha Muqarib. I'm in my junior currently pursuing my bachelor in software engineering from [Usman Institute of Technology, Pakistan.](https://www.uit.edu/) I'm a trainee @ [Micro Electronics Research Lab](https://github.com/merledu) and Active Membership Chair @ [IEEE UIT Student Branch.](https://www.facebook.com/IeeeUitStudentBranch/)
 

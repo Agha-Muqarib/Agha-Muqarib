@@ -25,7 +25,7 @@ Right now I'm working on 5 Stage Pipeline. I'm also a certified web developer. T
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: https://i.imgur.com/MTvcMV0.jpg
+[3.1]: https://i.imgur.com/M6yBwxS.png
 [4.1]: https://i.imgur.com/BzG8QoD.png
 
 [1]: https://twitter.com/MuqaribUllah

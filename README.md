@@ -20,6 +20,19 @@
 [6.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_2018_social_media_popular_app_logo_reddit_3225187.png
 [7.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_112-gmail_email_mail_4202011.png
 [8.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_SocialMedia_Website-Outline_2959741.png
+[9.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_10-html5_104494.png
+[10.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_267_Python_4518857.png
+[11.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_348_Ubuntu_logo_4375122.png
+[12.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_MySQL_1012821.png
+[13.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_SocialMedia_Website-Outline_2959741.png
+[14.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_badge-css-3_317756.png
+[15.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_code-programming-javascript-software-develop-command-language_652581.png
+[16.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_google_firebase_1175544.png
+[17.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_linux_mint_337127.png
+[18.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_oracle_4691480.png
+[19.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_rust_4691305.png
+[20.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_shellscript_2919.png
+[2!.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_visualstudio_1217096.png
 
 [1]: https://www.instagram.com/_aghamuqarib_/
 [2]: https://www.facebook.com/AghaMuqaribb/
@@ -29,6 +42,18 @@
 [6]: https://www.reddit.com/user/Muqii_2000
 [7]: aghamuqaribullah@gmail.com
 [8]: https://muqaribsthoughts.wordpress.com/
+[9]: https://muqaribsthoughts.wordpress.com/
+[10]: https://muqaribsthoughts.wordpress.com/
+[11]: https://muqaribsthoughts.wordpress.com/
+[12]: https://muqaribsthoughts.wordpress.com/
+[13]: https://muqaribsthoughts.wordpress.com/
+[14]: https://muqaribsthoughts.wordpress.com/
+[15]: https://muqaribsthoughts.wordpress.com/
+[16]: https://muqaribsthoughts.wordpress.com/
+[17]: https://muqaribsthoughts.wordpress.com/
+[18]: https://muqaribsthoughts.wordpress.com/
+[19]: https://muqaribsthoughts.wordpress.com/
+[20]: https://muqaribsthoughts.wordpress.com/
 
 This is me, Agha Muqarib. I'm in my junior currently pursuing my bachelor in software engineering from [Usman Institute of Technology, Pakistan.](https://www.uit.edu/) I'm a trainee @ [Micro Electronics Research Lab](https://github.com/merledu) and Active Membership Chair @ [IEEE UIT Student Branch.](https://www.facebook.com/IeeeUitStudentBranch/)
 
@@ -56,6 +81,7 @@ Right now I'm working on 5 Stage Pipeline. I'm also a certified web developer. T
 [![alt text][17.1]][17]
 [![alt text][19.1]][19]
 [![alt text][20.1]][20]
+[![alt text][21.1]][21]
 
 ### Ping Me: 
 

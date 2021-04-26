@@ -17,4 +17,4 @@ Right now I'm working on 5 Stage Pipeline. I'm also a certified web developer. T
 ### How to reach me: 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Agha-Muqarib&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agha-Muqarib)](https://github.com/Agha-Muqarib/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agha-Muqarib&theme=radical)](https://github.com/Agha-Muqarib/github-readme-stats)

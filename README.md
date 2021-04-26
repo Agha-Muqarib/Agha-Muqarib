@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm in my junior currently pursuing my bachelor in software engineering from Usman Institute of Technology, Pakistan. I'm a trainee @ Micro Electronics Research Lab and Active Membership Chair @ IEEE UIT Student Branch.
-
-I took part in Google Hash Code 2020 as team "Asterisks" where our team ranked 6904th in the world and 7th in Pakistan. I also was a part of Google cloud seekho series where I completed 7 quests. Took part agian in Google Hash Code 2021 as Team "(..)(..)(..)" and secured 2nd place at Pakistan / Usman Institute of Technology Hub and among Top 10 in Pakistan. 
+I'm in my junior currently pursuing my bachelor in software engineering from [Usman Institute of Technology, Pakistan.](https://www.uit.edu/) I'm a trainee @ [Micro Electronics Research Lab](https://github.com/merledu) and Active Membership Chair @ [IEEE UIT Student Branch.](https://www.facebook.com/IeeeUitStudentBranch/)
 
 Right now I'm working on 5 Stage Pipeline. I'm also a certified web developer. The side skills include docker, git, Linux, Firebase hosting, blogging and content writing. 
 

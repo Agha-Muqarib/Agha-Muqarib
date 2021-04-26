@@ -6,6 +6,7 @@
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
 [![alt text][6.1]][6]
+[![alt text][7.1]][7] 
 
 [1.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_2018_social_media_popular_app_logo_instagram_3225191.png
 [2.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_facebook_834722.png
@@ -13,6 +14,8 @@
 [4.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_2018_social_media_popular_app_logo_twitter_3225183.png
 [5.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_Medium_circle_7088889.png
 [6.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_2018_social_media_popular_app_logo_reddit_3225187.png
+[7.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_112-gmail_email_mail_4202011.png
+
 
 [1]: https://www.instagram.com/_aghamuqarib_/
 [2]: https://www.facebook.com/AghaMuqaribb/
@@ -38,9 +41,8 @@ Right now I'm working on 5 Stage Pipeline. I'm also a certified web developer. T
 
 ### Ping Me: 
 
-Reach me @ [![alt text][7.1]][7] 
-[7.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_112-gmail_email_mail_4202011.png
-[7]: aghamuqaribullah@gmail.com
+Reach me @ [7]: aghamuqaribullah@gmail.com
+
 
 
 ### My Stats: 

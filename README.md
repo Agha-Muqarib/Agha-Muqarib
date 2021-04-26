@@ -24,7 +24,6 @@
 [10.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_267_Python_4518857.png
 [11.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_348_Ubuntu_logo_4375122.png
 [12.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_MySQL_1012821.png
-[13.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_SocialMedia_Website-Outline_2959741.png
 [14.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_badge-css-3_317756.png
 [15.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_code-programming-javascript-software-develop-command-language_652581.png
 [16.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_google_firebase_1175544.png
@@ -42,20 +41,18 @@
 [6]: https://www.reddit.com/user/Muqii_2000
 [7]: aghamuqaribullah@gmail.com
 [8]: https://muqaribsthoughts.wordpress.com/
-[9]: https://muqaribsthoughts.wordpress.com/
-[10]: https://muqaribsthoughts.wordpress.com/
-[11]: https://muqaribsthoughts.wordpress.com/
-[12]: https://muqaribsthoughts.wordpress.com/
-[13]: https://muqaribsthoughts.wordpress.com/
-[14]: https://muqaribsthoughts.wordpress.com/
-[15]: https://muqaribsthoughts.wordpress.com/
-[16]: https://muqaribsthoughts.wordpress.com/
-[17]: https://muqaribsthoughts.wordpress.com/
-[18]: https://muqaribsthoughts.wordpress.com/
-[19]: https://muqaribsthoughts.wordpress.com/
-[20]: https://muqaribsthoughts.wordpress.com/
-[21]: https://muqaribsthoughts.wordpress.com/
-
+[9]: https://html.com/
+[10]: https://www.python.org/
+[11]: https://ubuntu.com/
+[12]: https://www.mysql.com/
+[14]: https://www.w3.org/Style/CSS/Overview.en.html
+[15]: https://www.javascript.com/
+[16]: https://apex.oracle.com/en/
+[17]: https://firebase.google.com/docs
+[18]: https://linuxmint.com/
+[19]: https://www.rust-lang.org/
+[20]: https://www.shellscript.sh/
+[21]: https://code.visualstudio.com/
 
 This is me, Agha Muqarib. I'm in my junior currently pursuing my bachelor in software engineering from [Usman Institute of Technology, Pakistan.](https://www.uit.edu/) I'm a trainee @ [Micro Electronics Research Lab](https://github.com/merledu) and Active Membership Chair @ [IEEE UIT Student Branch.](https://www.facebook.com/IeeeUitStudentBranch/)
 
@@ -75,7 +72,6 @@ Right now I'm working on 5 Stage Pipeline. I'm also a certified web developer. T
 [![alt text][10.1]][10]
 [![alt text][11.1]][11]
 [![alt text][12.1]][12]
-[![alt text][13.1]][13]
 [![alt text][14.1]][14]
 [![alt text][15.1]][15]
 [![alt text][18.1]][18]

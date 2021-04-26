@@ -26,7 +26,7 @@
 [7]: aghamuqaribullah@gmail.com
 
 
-I'm in my junior currently pursuing my bachelor in software engineering from [Usman Institute of Technology, Pakistan.](https://www.uit.edu/) I'm a trainee @ [Micro Electronics Research Lab](https://github.com/merledu) and Active Membership Chair @ [IEEE UIT Student Branch.](https://www.facebook.com/IeeeUitStudentBranch/)
+This is me, Agha Muqarib. I'm in my junior currently pursuing my bachelor in software engineering from [Usman Institute of Technology, Pakistan.](https://www.uit.edu/) I'm a trainee @ [Micro Electronics Research Lab](https://github.com/merledu) and Active Membership Chair @ [IEEE UIT Student Branch.](https://www.facebook.com/IeeeUitStudentBranch/)
 
 Right now I'm working on 5 Stage Pipeline. I'm also a certified web developer. The side skills include docker, git, Linux, Firebase hosting, blogging and content writing. 
 
@@ -44,7 +44,7 @@ Right now I'm working on 5 Stage Pipeline. I'm also a certified web developer. T
 
 ### Ping Me: 
 
-Reach me @ [![alt text][7.1]][7]
+[![alt text][7.1]][7]
 
 
 

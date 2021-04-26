@@ -35,7 +35,6 @@ Right now I'm working on 5 Stage Pipeline. I'm also a certified web developer. T
 - ⚡ Fun fact: It's Impossible to Hum While You Hold Your Nose.
 
 ### Tech Stack: 
-.
 
 ### Ping Me: 
 

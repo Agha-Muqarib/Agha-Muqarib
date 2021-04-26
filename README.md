@@ -17,19 +17,22 @@ Right now I'm working on 5 Stage Pipeline. I'm also a certified web developer. T
 
 ### Ping Me: 
 
-[1.1]: http://i.imgur.com/tXSoThF.png
-[2.1]: http://i.imgur.com/P3YfQoD.png
-[3.1]: http://i.imgur.com/yCsTjba.png
-[4.1]: http://i.imgur.com/YckIOms.png
-[5.1]: http://i.imgur.com/1AGmwO3.png
-[6.1]: http://i.imgur.com/0o48UoR.png
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
 
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3.1]: https://i.imgur.com/MTvcMV0.jpg
+[4.1]: https://i.imgur.com/BzG8QoD.png
+
+[1]: https://twitter.com/MuqaribUllah
+[2]: https://www.facebook.com/AghaMuqaribb/
 [3]: https://plus.google.com/+CarlSednaoui
 [4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
+
 
 ### My Stats: 
 

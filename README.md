@@ -29,7 +29,7 @@ Right now I'm working on 5 Stage Pipeline. I'm also a certified web developer. T
 
 [1]: https://twitter.com/MuqaribUllah
 [2]: https://www.facebook.com/AghaMuqaribb/
-[3]: 
+[3]: https://www.linkedin.com/in/agha-muqarib-29b5a1178/
 [4]: 
 
 

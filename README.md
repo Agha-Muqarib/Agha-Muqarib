@@ -10,3 +10,4 @@
 - 😄 Pronouns: ..
 - ⚡ Fun fact: ...
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Agha-Muqarib)](https://github.com/Agha-Muqarib/github-readme-stats)

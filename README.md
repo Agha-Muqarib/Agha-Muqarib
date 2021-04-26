@@ -32,7 +32,7 @@
 [18.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_oracle_4691480.png
 [19.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_rust_4691305.png
 [20.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_shellscript_2919.png
-[2!.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_visualstudio_1217096.png
+[21.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_visualstudio_1217096.png
 
 [1]: https://www.instagram.com/_aghamuqarib_/
 [2]: https://www.facebook.com/AghaMuqaribb/

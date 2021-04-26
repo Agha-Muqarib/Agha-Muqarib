@@ -27,4 +27,3 @@ Right now I'm working on 5 Stage Pipeline. I'm also a certified web developer. T
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column

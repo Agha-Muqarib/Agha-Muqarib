@@ -17,6 +17,7 @@ Right now I'm working on 5 Stage Pipeline. I'm also a certified web developer. T
 
 ### Ping Me: 
 
+<img align="left" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fillustrations%2Flinked-in-logo-company-editorial-2668700%2F&psig=AOvVaw0meEBIf5L7pKd57-GkMyro&ust=1619527548945000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDqnrT4m_ACFQAAAAAdAAAAABAN" / href= "https://www.linkedin.com/in/agha-muqarib-29b5a1178/">
 
 ### My Stats: 
 

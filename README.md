@@ -6,16 +6,20 @@ Right now I'm working on 5 Stage Pipeline. I'm also a certified web developer. T
 
 ### Gist about me:
 
-- 🔭 I’m currently working on RV32 5 Stage Pipeline @ Micro Electronics Research Lab (MERL).
+- 🔭 I’m currently working on RV32 5 Stage Pipeline @ [Micro Electronics Research Lab (MERL).]((https://github.com/merledu))
 - 🌱 I’m currently learning Design & Analysis of Algorithms along with AI.
 - 👯 I’m looking to collaborate on Python Desktop Applications.
 - 💬 Ask me about Python, Rust, Web Development, Web Scraping & Substrate.
 - ⚡ Fun fact: It's Impossible to Hum While You Hold Your Nose.
+
+### Tech Stack: 
+
 
 ### Ping Me: 
 
 
 ### My Stats: 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Agha-Muqarib&show_icons=true&theme=radical&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Agha-Muqarib&theme=radical&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://git.io/streak-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Agha-Muqarib&show_icons=true&theme=radical&count_private=true) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Agha-Muqarib&theme=radical&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://git.io/streak-stats)
+
+

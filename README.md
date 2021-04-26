@@ -12,7 +12,6 @@
 [![alt text][8.1]][8]
 
 
-
 [1.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_2018_social_media_popular_app_logo_instagram_3225191.png
 [2.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_facebook_834722.png
 [3.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_Social_Media_Socialmedia_network_share_socialnetwork_network-05_227048.png
@@ -45,7 +44,18 @@ Right now I'm working on 5 Stage Pipeline. I'm also a certified web developer. T
 
 ### Tech Stack: 
 
-
+[![alt text][9.1]][9]
+[![alt text][10.1]][10]
+[![alt text][11.1]][11]
+[![alt text][12.1]][12]
+[![alt text][13.1]][13]
+[![alt text][14.1]][14]
+[![alt text][15.1]][15]
+[![alt text][18.1]][18]
+[![alt text][16.1]][16]
+[![alt text][17.1]][17]
+[![alt text][19.1]][19]
+[![alt text][20.1]][20]
 
 ### Ping Me: 
 

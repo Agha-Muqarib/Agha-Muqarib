@@ -17,6 +17,11 @@ Right now I'm working on 5 Stage Pipeline. I'm also a certified web developer. T
 
 ### Ping Me: 
 
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: 

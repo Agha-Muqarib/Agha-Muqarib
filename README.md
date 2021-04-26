@@ -38,10 +38,8 @@ Right now I'm working on 5 Stage Pipeline. I'm also a certified web developer. T
 
 ### Ping Me: 
 
-Reach me @ 
-[![alt text][7.1]][7] 
-[7.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_112-gmail_email_mail_4202011.png    
-[7]: aghamuqaribullah@gmail.com
+Reach me @ [https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_112-gmail_email_mail_4202011.png!](aghamuqaribullah@gmail.com)
+
 
 
 

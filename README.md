@@ -21,17 +21,22 @@ Right now I'm working on 5 Stage Pipeline. I'm also a certified web developer. T
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_Vector-4_4747495.png
-[4.1]: 
+[1.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_2018_social_media_popular_app_logo_instagram_3225191.png
+[2.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_facebook_834722.png
+[3.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_Social_Media_Socialmedia_network_share_socialnetwork_network-05_227048.png
+[4.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_2018_social_media_popular_app_logo_twitter_3225183.png
+[5.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_Medium_circle_7088889.png
+[6.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_2018_social_media_popular_app_logo_reddit_3225187.png
 
-[1]: https://twitter.com/MuqaribUllah
+[1]: https://www.instagram.com/_aghamuqarib_/
 [2]: https://www.facebook.com/AghaMuqaribb/
 [3]: https://www.linkedin.com/in/agha-muqarib-29b5a1178/
-[4]: 
-
+[4]: https://twitter.com/MuqaribUllah
+[5]: https://medium.com/@aghamuqaribullah
+[6]: https://www.reddit.com/user/Muqii_2000
 
 ### My Stats: 
 

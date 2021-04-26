@@ -40,12 +40,11 @@ Right now I'm working on 5 Stage Pipeline. I'm also a certified web developer. T
 
 ### Tech Stack: 
 
+
+
 ### Ping Me: 
 
-Reach me @ 
-[![alt text][7.1]][7]
-
-
+Reach me @ [![alt text][7.1]][7]
 
 
 

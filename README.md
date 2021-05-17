@@ -47,9 +47,9 @@
 [12]: https://www.mysql.com/
 [14]: https://www.w3.org/Style/CSS/Overview.en.html
 [15]: https://www.javascript.com/
-[16]: https://apex.oracle.com/en/
+[16]: https://linuxmint.com/
 [17]: https://firebase.google.com/docs
-[18]: https://linuxmint.com/
+[18]: https://apex.oracle.com/en/
 [19]: https://www.rust-lang.org/
 [20]: https://www.shellscript.sh/
 [21]: https://code.visualstudio.com/

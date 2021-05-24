@@ -1,7 +1,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Agha-Muqarib.Agha-Muqarib)
 
 
-# Hi there 👋
+# Hey there 👋
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
@@ -32,6 +32,7 @@
 [19.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_rust_4691305.png
 [20.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_shellscript_2919.png
 [21.1]: https://github.com/Agha-Muqarib/Agha-Muqarib/blob/main/Images/iconfinder_visualstudio_1217096.png
+
 
 [1]: https://www.instagram.com/_aghamuqarib_/
 [2]: https://www.facebook.com/AghaMuqaribb/
@@ -84,7 +85,6 @@ Right now, I'm working on 5 Stage Pipeline. I'm also a certified web developer. 
 ### Ping Me: 
 
 [![alt text][7.1]][7]
-
 
 
 ### My Stats: 

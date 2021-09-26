@@ -93,6 +93,8 @@ Stats        | Streak
 ------------ | -------------
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Agha-Muqarib&show_icons=true&theme=radical&count_private=true) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Agha-Muqarib&theme=radical)](https://git.io/streak-stats)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agha-Muqarib&count_private=true&theme=radicalcount">
+
 
 ### Contribution Graph:
 

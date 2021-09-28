@@ -55,9 +55,9 @@
 [20]: https://www.shellscript.sh/
 [21]: https://code.visualstudio.com/
 
-This is me, Agha Muqarib. I'm in my senior year currently pursuing bachelor in software engineering at [Usman Institute of Technology, Pakistan.](https://www.uit.edu/) I'm a trainee @ [Micro Electronics Research Lab](https://github.com/merledu) and Active Membership Chair @ [IEEE UIT Student Branch.](https://www.facebook.com/IeeeUitStudentBranch/)
+This is me, Agha Muqarib. I'm in my senior year currently pursuing bachelors in software engineering at [Usman Institute of Technology, Pakistan.](https://www.uit.edu/) I'm a trainee @ [Micro Electronics Research Lab](https://github.com/merledu) and Active Membership Chair @ [IEEE UIT Student Branch.](https://www.facebook.com/IeeeUitStudentBranch/)
 
-Right now, I'm working on RISC-V Single Cycle Datapath. I'm also a certified web developer. The side skills include Git, Linux, Firebase hosting, blogging and content writing. 
+Right now, I'm working on RISC-V Single Cycle Datapath using Chisel. I'm also a certified web developer. The side skills include Git, Linux, Firebase hosting, blogging and content writing. 
 
 ### Gist about me:
 

@@ -57,11 +57,11 @@
 
 This is me, Agha Muqarib. I'm in my senior year currently pursuing bachelors in software engineering at [Usman Institute of Technology, Pakistan.](https://www.uit.edu/) I'm a trainee @ [Micro Electronics Research Lab](https://github.com/merledu) and Active Membership Chair @ [IEEE UIT Student Branch.](https://www.facebook.com/IeeeUitStudentBranch/)
 
-Right now, I'm working on RISC-V Single Cycle Datapath using Chisel. I'm also a certified web developer. The side skills include Git, Linux, Firebase hosting, blogging and content writing. 
+Right now, I'm working on RISC-V 32-I 5 Stage Pipeline using Scala, Chisel and Functional Programming. I'm also a certified web developer. The side skills include Git, Linux, Firebase hosting, blogging and content writing. 
 
 ### Gist about me:
 
-- 🔭 I’m currently working on RV32 5 Stage Pipeline @ [Micro Electronics Research Lab (MERL).](https://github.com/merledu)
+- 🔭 I’m currently working on RV32I 5 Stage Pipeline @ [Micro Electronics Research Lab (MERL).](https://github.com/merledu)
 - 🌱 I’m currently learning Functional Programming in Scala.
 - 👯 I’m looking to collaborate on Python Desktop Applications.
 - 💬 Ask me about Python, Rust, Scala, Chisel & Web Development.

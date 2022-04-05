@@ -55,16 +55,16 @@
 [20]: https://www.shellscript.sh/
 [21]: https://code.visualstudio.com/
 
-This is me, Agha Muqarib. I'm in my senior year currently pursuing bachelors in software engineering at [Usman Institute of Technology, Pakistan.](https://www.uit.edu/) I'm a trainee @ [Micro Electronics Research Lab](https://github.com/merledu) and Vice Chair @ [IEEE UIT Student Branch.](https://www.facebook.com/IeeeUitStudentBranch/)
+This is me, Agha Muqarib. I'm in my senior year currently pursuing bachelors in software engineering at [Usman Institute of Technology, Pakistan.](https://www.uit.edu/) I'm a former trainee @ [Micro Electronics Research Lab](https://github.com/merledu) and Vice Chair @ [IEEE UIT Student Branch.](https://www.facebook.com/IeeeUitStudentBranch/)
 
-Right now, I'm working on RISC-V 32-I 5 Stage Pipeline using Scala, Chisel and Functional Programming. I'm also a certified web developer. The side skills include Git, Linux, Firebase hosting, blogging and content writing. 
+Right now, I'm working on implementing the fundamentals and basics of Data Mining utilizing R language. I'm also a certified web developer. The side skills include Git, Linux, Firebase hosting, blogging and content writing. 
 
 ### Gist about me:
 
-- 🔭 I’m currently working on RV32I 5 Stage Pipeline @ [Micro Electronics Research Lab (MERL).](https://github.com/merledu)
-- 🌱 I’m currently learning Functional Programming in Scala.
-- 👯 I’m looking to collaborate on Python Desktop Applications.
-- 💬 Ask me about Python, Rust, Scala, Chisel & Web Development.
+- 🔭 I’m currently working on my Final Year Project which is about "Handwritten to Text/LaTeX/XML/MathML format for better search experience"
+- 🌱 I’m currently learning Neural Networks in Python.
+- 👯 I’m looking to collaborate on Python Applications.
+- 💬 Ask me about Python, Django, Scala, Chisel, R & Web Development.
 - ⚡ Fun fact: It's Impossible to Hum While You Hold Your Nose.
 
 ### Tech Stack: 

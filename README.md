@@ -55,17 +55,23 @@
 [20]: https://www.shellscript.sh/
 [21]: https://code.visualstudio.com/
 
-This is me, Agha Muqarib. I'm in my senior year currently pursuing bachelors in software engineering at [Usman Institute of Technology, Pakistan.](https://www.uit.edu/) I'm a former trainee @ [Micro Electronics Research Lab](https://github.com/merledu) and Vice Chair @ [IEEE UIT Student Branch.](https://www.facebook.com/IeeeUitStudentBranch/)
+Howdy, I'm Agha Muqarib, a self-proclaimed code wrangler, a Dynamics 365 and Power Apps Technical Consultant employed @ Mazik Global, and a fresh software engineering graduate. 
 
-Right now, I'm working on implementing the fundamentals and basics of Data Mining utilizing R language. I'm also a certified web developer. The side skills include Git, Linux, Firebase hosting, blogging and content writing. 
+I have a knack for building reliable PowerApps, writing custom plugins and web resources, implementing flows, and performing deployments that help turn business challenges into success stories. 
+
+My expertise lies in C#, JavaScript, and Python, which I use to create solutions that not only work but also make users smile (or at least, not want to pull their hair out).
+
+ I'm also a graduate of the esteemed "Debugging University", where I learned the art of solving software glitches and saving users from tech-induced headaches.
+
+If you're looking for a tech whiz who's passionate about making an impact, then look no further. Let's connect and see how we can team up to make some software magic happen. And if you need someone to join your company's next hackathon or debate the merits of tabs vs. spaces, count me in! 
 
 ### Gist about me:
 
-- 🔭 I’m currently working on my Final Year Project which is about "Handwritten to Text/LaTeX/XML/MathML format for better search experience"
-- 🌱 I’m currently learning Neural Networks in Python.
+- 🔭 I’m currently working on D365 CRM in HealthCare Sector.
+- 🌱 I’m currently learning Power BI and SSRS Reporting.
 - 👯 I’m looking to collaborate on Python Applications.
-- 💬 Ask me about Python, Django, Scala, Chisel, R & Web Development.
-- ⚡ Fun fact: It's Impossible to Hum While You Hold Your Nose.
+- 💬 Ask me about Microsoft Power Platform, Microsoft Dynamics CRM, C#, Python, Javascript, Scala, Data Analysis and Machine Learning.
+- ⚡ Fun fact: It's Impossible to Humm While You Hold Your Nose.
 
 ### Tech Stack: 
 

@@ -55,7 +55,7 @@
 [20]: https://www.shellscript.sh/
 [21]: https://code.visualstudio.com/
 
-Howdy, I'm Agha Muqarib, a self-proclaimed code wrangler, a Dynamics 365 and Power Apps Technical Consultant employed @ Mazik Global, and a fresh software engineering graduate. 
+Howdy, I'm Agha Muqarib, a self-proclaimed code wrangler, a Dynamics 365 and Power Apps Technical Consultant employed @ Mazik Global, and a software engineering graduate. 
 
 I have a knack for building reliable PowerApps, writing custom plugins and web resources, implementing flows, and performing deployments that help turn business challenges into success stories. 
 
